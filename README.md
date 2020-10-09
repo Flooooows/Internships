@@ -1,1 +1,3 @@
-Projet qui permet la gestion et l'ajout de stage
+# Internships
+
+Project that allows admins to manage students' internships
